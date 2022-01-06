@@ -15,7 +15,6 @@ public class doubleToIntConversion {
 		int intValue = (int) number;
 		
 		System.out.println("O número que você digitou convertido para o tipo inteiro é: " + intValue);
-		
 
 	}
 
