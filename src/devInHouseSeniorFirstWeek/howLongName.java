@@ -12,7 +12,6 @@ public class howLongName {
 		String name = sc.next();
 		
 		System.out.println("O nome que você digitou possui " + name.length() + " letras");
-		
 
 	}
 
