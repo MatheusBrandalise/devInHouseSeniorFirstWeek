@@ -2,7 +2,7 @@ package devInHouseSeniorFirstWeek;
 
 import java.util.Scanner;
 
-public class fatorial {
+public class Fatorial {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -11,8 +11,9 @@ public class fatorial {
 
 		System.out.println("Digite o valor que deseja calcular o fatorial entre 1 e 10:");
 		value = sc.nextInt();
+		sc.close();
 		int auxValue = value;
-
+		
 		if (value > 0 && value <= 10) {
 			while (value > 1) {
 				result *= value ;
@@ -20,8 +21,7 @@ public class fatorial {
 			}
 			System.out.println("O fatorial de " + auxValue + " é " + result);
 		} else {
-			throw new IllegalArgumentException("O valor não é valido.");
+			throw new IllegalArgumentException("O valor não é valido.");	
 		}
-
 	}
 }

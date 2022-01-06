@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class semesterAverage {
+public class SemesterAverage {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -37,6 +37,7 @@ public class semesterAverage {
 	    double finalAverage = Double.parseDouble(string2);
 		
 		System.out.println("A média do seu semestre é: " + finalAverage);
+		sc.close();
 	}
 
 }

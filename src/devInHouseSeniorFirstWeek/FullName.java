@@ -2,7 +2,7 @@ package devInHouseSeniorFirstWeek;
 
 import java.util.Scanner;
 
-public class fullName {
+public class FullName {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -14,7 +14,7 @@ public class fullName {
 		String firstName = sc.next();
 
 		System.out.println("Seu nome completo é: " + firstName + " " + lastName);
-		
+		sc.close();
 	}
 
 }

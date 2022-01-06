@@ -2,10 +2,9 @@ package devInHouseSeniorFirstWeek;
 
 import java.util.Random;
 
-public class randomNumber {
+public class RandomNumber {
 	public static void main(String[] args) {
 		Random rand = new Random();
-		
 		int limit = 2;
 		int randomNumber = rand.nextInt(limit);
 		
