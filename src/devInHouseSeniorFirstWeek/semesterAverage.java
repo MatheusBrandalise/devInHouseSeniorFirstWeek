@@ -26,7 +26,6 @@ public class semesterAverage {
 		notes.add(noteThirdDiscipline);
 		
 		double sum = notes.stream().mapToDouble(Double:: doubleValue).sum();
-		
 				
 		double average = (sum / notes.size());
 		
