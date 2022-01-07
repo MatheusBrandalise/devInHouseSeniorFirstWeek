@@ -17,7 +17,7 @@
 
 ### 💬 Sobre <a name="about"></a>
 Os exercícios desenvolvidos neste projeto fazem parte da grade curricular do programa DevInHouse do SENAI em parceiria com a <a href="https://www.senior.com.br/">Senior Sistemas</a>.
-As atividade propostas são referentes a semana 01 do módulo 01 ( [M1S01](docs/[M1S01] - Exercícios)) deste programa.
+As atividade propostas são referentes a semana 01 do módulo 01 ( [M1S01](M1S01 - Exercícios.pdf)) deste programa.
 
 ### 🏗️ Tecnologias Utilizadas <a name="tecnologies"></a>
 O projeto foi inteiramente desenvolvido utilizando Java, como proposto.
