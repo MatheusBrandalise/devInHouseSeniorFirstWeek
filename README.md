@@ -1,5 +1,5 @@
 <h1 align="center"> devInHouseSeniorFirstWeek </h1>
-<h3 align="center">Exercícios referentes a primeira semana do primeiro módulo ([M1S01]) da turma do DevInHouse - Senior 2021</h3>
+<h3 align="center">([M1S01]) DevInHouse - Senior 2021</h3>
 <p align="center">
     <p align="center">
     <img src="https://img.shields.io/badge/Status-Finalizado-green?style=for-the-badge"/>
