@@ -8,15 +8,15 @@
     <img src="https://img.shields.io/github/repo-size/matheusbrandalise/devInHouseSeniorFirstWeek?style=for-the-badge"/>
     <img src="https://img.shields.io/github/last-commit/matheusbrandalise/devInHouseSeniorFirstWeek?style=for-the-badge"/>
 </p>
----
 
+---
 <p align="center">
   <a href="#about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Tecnologias</a>
 </p>
 
 ### 💬 Sobre <a name="about"></a>
-Os exercícios propostos são parte da grade curricular do programa DevInHouse do SENAI em parceiria com a <a href="https://www.senior.com.br/">Senior Sistemas</a>.
+Os exercícios propostos são referentes da semana 01 do módulo 01 e faz parte da grade curricular do programa DevInHouse do SENAI em parceiria com a <a href="https://www.senior.com.br/">Senior Sistemas</a>.
 
 ### 🏗️ Tecnologias Utilizadas <a name="tecnologies"></a>
 O projeto foi inteiramente desenvolvido utilizando Java, como proposto.
