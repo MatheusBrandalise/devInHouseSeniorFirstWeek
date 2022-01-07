@@ -16,10 +16,11 @@
 </p>
 
 ### 💬 Sobre <a name="about"></a>
-Os exercícios propostos são referentes da semana 01 do módulo 01 e faz parte da grade curricular do programa DevInHouse do SENAI em parceiria com a <a href="https://www.senior.com.br/">Senior Sistemas</a>.
+Os exercícios desenvolvidos neste projeto fazem parte da grade curricular do programa DevInHouse do SENAI em parceiria com a <a href="https://www.senior.com.br/">Senior Sistemas</a>.
+As atividade propostas são referentes a semana 01 do módulo 01 ( [M1S01](docs/[M1S01] - Exercícios)) deste programa.
 
 ### 🏗️ Tecnologias Utilizadas <a name="tecnologies"></a>
 O projeto foi inteiramente desenvolvido utilizando Java, como proposto.
 
 ---
-by [Matheus José Brandalise](https://linktr.ee/matheusbrandalise)
+by [Matheus José Brandalise](https://linktr.ee/matheusbrandalise) 
